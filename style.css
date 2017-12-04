@@ -4,16 +4,18 @@ display: none;
 }
 
 body{
-  background-color: white;
+  background-color: red;
   text-align: center;
   font-style: normal;
-  font-size: 300px;
+  font-size: 50px;
+  font-color: white;
  font-family: 'futura', sans-serif;
 
 }
 
 .if{
-font-size: 200px;
-color: white;
+font-size: 40px;
+font-color: white;
+color: red;
 font-family: 'futura', sans-serif;
 }
