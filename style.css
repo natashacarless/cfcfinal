@@ -1,10 +1,19 @@
-
-  text-align: center;
- body{
-  background-color: #3672d7 ;
-  text-align: center;
-  font-family: 'impact';
-  font-weight: 900;
-   
+4 lines (3 sloc)  29 Bytes
+.hidden {
+display: none;
 }
 
+body{
+  background-color: white;
+  text-align: center;
+  font-style: normal;
+  font-size: 300px;
+ font-family: 'futura', sans-serif;
+
+}
+
+.if{
+font-size: 200px;
+color: white;
+font-family: 'futura', sans-serif;
+}
