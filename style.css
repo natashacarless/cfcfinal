@@ -3,11 +3,22 @@
 display: none;
 }
 
+h1 {
+    text-decoration: underline;
+   background-color: red;
+  text-align: center;
+  font-style: normal;
+  font-size: 30px;
+  text-color: white;
+ font-family: 'futura', sans-serif;
+  
+}
+
 body{
   background-color: red;
   text-align: center;
   font-style: normal;
-  font-size: 35px;
+  font-size: 20px;
   text-color: white;
  font-family: 'futura', sans-serif;
 
