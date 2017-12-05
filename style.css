@@ -1,6 +1,11 @@
-4 lines (3 sloc)  29 Bytes
+
 .hidden {
 display: none;
+}
+
+.bigdonate {
+
+  height: 200px;
 }
 
 h1 {
@@ -11,7 +16,7 @@ h1 {
   font-size: 80;
 
  font-family: 'futura', sans-serif;
-  
+
 }
 
 body{
@@ -19,7 +24,7 @@ body{
   text-align: center;
   font-style: normal;
   font-size: 25;
-  
+
  font-family: 'futura', sans-serif;
 
 }
