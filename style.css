@@ -28,3 +28,7 @@ body{
 font-size: 30;
 font-family: 'futura', sans-serif;
 }
+
+@media (max-width: 600px){
+body  .responsive {
+ }
